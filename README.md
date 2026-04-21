@@ -60,3 +60,4 @@ The game features a rich, color-coded CLI interface that provides real-time upda
 
 
 > **Note:** This project is developed for academic purposes to demonstrate proficiency in C++ system design and software architecture.
+<img width="2816" height="1536" alt="Gemini_Generated_Image_yfo78tyfo78tyfo7" src="https://github.com/user-attachments/assets/44f21b55-5444-4284-bbd4-16deed021e42" />
